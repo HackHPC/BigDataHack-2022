@@ -2,9 +2,9 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Hack@TACC22
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: TACC REU Code Challenge 2022
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "https://hackhpc.github.io/HackatTACC-2022"
