@@ -5,7 +5,7 @@
 
 ## Deliverables 
 
-* **Github Repo Link**
+* **Github Repo Link Posted to the REU Slack Channel**
   * **Python Source Code**
   * **Team Presentation Slides (PDF)**
     *  Team Name
