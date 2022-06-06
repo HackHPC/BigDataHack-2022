@@ -32,12 +32,13 @@
   </div>
   {% include landing-page.html %}
   <div class="layout">
-    {% include schedule.html %}
     {%if site.show_aboutme_card %}
       <section class="card neumorphism-card-big">
         {% include section-aboutme.html %}
       </section>
     {% endif %}
+    <h2> Schedule </h2>
+    {% include schedule.html %}
     {%if site.show_skills_card %}
       <section class="card neumorphism-card-big">
         {% include section-skills.html %}
