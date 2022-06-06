@@ -32,9 +32,9 @@ twitter_username: TACC
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: Deliverables Due 6/10
+about_me_title: "Deliverables Due 6/10"
 # about_me_description: This will be displayed under the title.
-about_me_description: Each team will need to create a [Github](https://github.com) repository for their team project. The link to the repository should be posted to the REU Slack channel prior to your presentation. The Github repo should include: <br> * Source Code <br> * README.md with Team Name and Team Members <br> * Presentation in PDF form with <br>     - Team Name<br>     - Team Members<br>     - Question Posed<br>     - Findings with Visualizations 
+about_me_description: "Each team will need to create a [Github](https://github.com) repository for their team project. The link to the repository should be posted to the REU Slack channel prior to your presentation. The Github repo should include: <br> * Source Code <br> * README.md with Team Name and Team Members <br> * Presentation in PDF form with <br>     - Team Name<br>     - Team Members<br>     - Question Posed<br>     - Findings with Visualizations" 
 
 # SKILLS SECTION
 # show_skills_card:
