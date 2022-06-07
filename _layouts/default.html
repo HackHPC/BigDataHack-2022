@@ -37,8 +37,10 @@
         {% include section-aboutme.html %}
       </section>
     {% endif %}
-    <h2> Schedule </h2>
-    {% include schedule.html %}
+    <section class="card neumorphism-card-big">
+      <h2> Schedule </h2>
+      {% include schedule.html %}
+    </section>
     {%if site.show_skills_card %}
       <section class="card neumorphism-card-big">
         {% include section-skills.html %}
@@ -49,7 +51,6 @@
         {% include section-timeline.html %}
       </section>
     {% endif %}
-    <h2> Teams </h2>
     {%if site.show_projects_card %}
       <section class="card neumorphism-card-big">
         {% include section-projects.html %}
