@@ -6,12 +6,17 @@
         <div class="name-link-wrapper">
           <h2>{{project.name}}</h2>
         </div>
-        <p class="project-desc">{{project.descr}}</p>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
             Team Theme Song 
           </a>
         {% endif %}
+        <p class="project-desc">{{project.descr}}</p>
+        {% if project.github %}
+        <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
+            Github Repo 
+          </a>
+        {% endif %
         {% if project.tags %}
           <div class="tag-wrapper">
             {% for tag in project.tags %}
