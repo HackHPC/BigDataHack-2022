@@ -14,23 +14,28 @@
 #     - tag: Node
 
 - name: "Team Firefly"
-  descr: "Theme Song: https://www.youtube.com/watch?v=QBgl4rVz3Ks"
-#  demo: https://example.com/
+  demo: https://www.youtube.com/watch?v=QBgl4rVz3Ks
+  descr: Project Goal
 
 - name: "Team Firefly"
-  descr: "Theme Song: https://www.youtube.com/watch?v=QBgl4rVz3Ks"
+  demo: https://www.youtube.com/watch?v=QBgl4rVz3Ks
+  descr: Project Goal
 
 - name: "Team 5'432"
-  descr: "Theme Song: https://www.youtube.com/watch?v=lshzQJ1YAzU"
+  demo: https://www.youtube.com/watch?v=lshzQJ1YAzU
+  descr: Project Goal
 
 - name: "Team Indigo"
-  descr: "Theme Song: https://www.youtube.com/watch?v=IQNBQI3UDag"
+  demoo: https://www.youtube.com/watch?v=IQNBQI3UDag
+  descr: Project Goal
 
 - name: "Team Bulletproof"
-  descr: "Theme Song: https://www.youtube.com/watch?v=Vcljvd4Ef_o"
+  demo: https://www.youtube.com/watch?v=Vcljvd4Ef_o
+  descr: Project Goal
 
 - name: "Team Paragon"
-  descr: "Theme Song: https://youtu.be/8a-HfNE3EIo"
+  demo: https://youtu.be/8a-HfNE3EIo
+  descr: Project Goal
   
 #- name: project Z
 #  descr: "You can also set a project without demo link and no tags"
