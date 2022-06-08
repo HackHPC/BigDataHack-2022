@@ -30,4 +30,6 @@
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/tuesday_files/Task1.ipynb
   date: Jun 7 2022 - Jun 7 2022
   subtitle: Joe Disease Model
+  tags:
+    - tag: Python
   timeline-side: right
