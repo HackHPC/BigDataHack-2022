@@ -12,6 +12,11 @@
           </a>
         {% endif %}
         <p class="project-desc">{{project.descr}}</p>
+        {% if project.introslide %}
+        <a class="highlight-link" href="{{project.introslide}}" target="_blank" rel="noreferrer">
+            Intro Slide 
+          </a>
+        {% endif %}
         {% if project.github %}
         <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
             Github Repo 
