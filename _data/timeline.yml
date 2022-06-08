@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: Day 2 - Python Slides
-  title-url: assets/slides/tuesday_files
+  title-url: https://github.com/HackHPC/HackatTACC-2022/tree/gh-pages/assets/slides/tuesday_files
   date: Jun 7 2022 - Jun 7 2022
   subtitle: Intro to Python
   tags:
