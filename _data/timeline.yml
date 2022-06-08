@@ -32,4 +32,14 @@
   subtitle: Joe Disease Model
   tags:
     - tag: Python
+    - tag: Code Tasks
+  timeline-side: right
+  
+- title: Day 3 - Coding Example Task 2
+  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/Task2_working.ipynb
+  date: Jun 8 2022 - Jun 8 2022
+  subtitle: Joe and Jane Disease Model
+  tags:
+    - tag: Python
+    - tag: Code Tasks
   timeline-side: right
