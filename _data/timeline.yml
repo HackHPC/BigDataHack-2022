@@ -29,7 +29,7 @@
 - title: Day 2 - Coding Example Task 1
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/tuesday_files/Task1.ipynb
   date: June 7, 2022
-  subtitle: Joe Disease Model
+  subtitle: "Joe Disease Model - Let's meet Joe. Joe might get sick. Joe will be sick for 5 days. After 5 days, Joe gets better. Once Joe gets better, Joe can no longer get sick."
   tags:
     - tag: Python
     - tag: Code Tasks
@@ -38,7 +38,8 @@
 - title: Day 3 - Coding Example Task 2
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/Task2_working.ipynb
   date: June 8, 2022
-  subtitle: Joe and Jane Disease Model
+  subtitle: "Joe and Jane Disease Model - Let's meet Joe. Joe has a friend, Jane If Joe gets sick, Jane might get sick. Modify your code, so when Joe gets sick that triggers Jane to roll a random number to see if she gets sick. Loop through your code until both Joe and Jane get sick and they each get better."
+ 
   tags:
     - tag: Python
     - tag: Code Tasks
