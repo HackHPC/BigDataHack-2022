@@ -15,27 +15,32 @@
 
 - name: "Team Firefly"
   demo: https://www.youtube.com/watch?v=QBgl4rVz3Ks
-  descr: Project Goal
+  descr: "How strong is Jane’s immune system?"
+  introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   github: Project Code Repo
 
 - name: "Team 5'432"
   demo: https://www.youtube.com/watch?v=lshzQJ1YAzU
-  descr: Project Goal
+  descr: "How much does wearing a mask effect the transmissibility of the virus? <br> &emsp; - Different material masks? <br> &emsp; - Double masking?"
+  introslide: assets/Team_Slides/Team_5432_ IntroSlide.pdf
   github: https://github.com/christatsao/team5432
 
 - name: "Team Indigo"
   demoo: https://www.youtube.com/watch?v=IQNBQI3UDag
-  descr: Project Goal
-  github: Project Code Repo
+  descr: "What factors affect the number of days someone is sick? (immunocompromised; vaccinated, age, etc?)"
+  introslide: assets/Team_Slides/Team_Indigo_ IntroSlide .pdf
+  github: https://github.com/Christine1302/Team-Indigo
 
 - name: "Team Bulletproof"
   demo: https://www.youtube.com/watch?v=Vcljvd4Ef_o
-  descr: Project Goal
+  descr: "On average how long does it take a person to get infected after being exposed? How does this change with age?"
+  introslide: assets/Team_Slides/Team_Bulletproof_ IntroSlide.pdf
   github: Project Code Repo
 
 - name: "Team Paragon"
   demo: https://youtu.be/8a-HfNE3EIo
-  descr: Project Goal
+  descr: "How does the virus spread?(common object, direct contact)<br> &emsp; - How fast is the virus spreading? - rate of spread <br> &emsp; - How high does Jane’s susceptibility rate increase?(dv/dt)"
+  introslide: assets/Team_Slides/Team_Paragon_ IntroSlide.pdf
   github: Project Code Repo
   
 #- name: project Z
