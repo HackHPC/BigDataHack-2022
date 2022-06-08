@@ -1,4 +1,10 @@
 {% if site.show_projects %}
+  <div>
+  <span style="padding-right:3px; padding-top: 3px; display:block;">
+    <img src="{{project.teamimage}}"></img>
+  </span>
+  </div> 
+    
   <h1 class="title"><span>{{site.projects_title}}</span></h1>
   <div class="projects-wrapper">
     {% for project in site.data.projects %}
