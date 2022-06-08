@@ -19,7 +19,7 @@
 
 - title: Day 2 - Python Slides
   title-url: https://github.com/HackHPC/HackatTACC-2022/tree/gh-pages/assets/slides/tuesday_files
-  date: Jun 7 2022 - Jun 7 2022
+  date: June 7, 2022
   subtitle: "Intro to Python and Code Challenge/Computational Thinking"
   tags:
     - tag: Python
@@ -28,7 +28,7 @@
 
 - title: Day 2 - Coding Example Task 1
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/tuesday_files/Task1.ipynb
-  date: Jun 7 2022 - Jun 7 2022
+  date: June 7, 2022
   subtitle: Joe Disease Model
   tags:
     - tag: Python
@@ -37,7 +37,7 @@
   
 - title: Day 3 - Coding Example Task 2
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/Task2_working.ipynb
-  date: Jun 8 2022 - Jun 8 2022
+  date: June 8, 2022
   subtitle: Joe and Jane Disease Model
   tags:
     - tag: Python
