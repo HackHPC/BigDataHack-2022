@@ -55,7 +55,7 @@
 - title: Day 4 - Coding Example Task 3
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/Task3_working.ipynb
   date: June 9, 2022
-  subtitle: "Joe and Jane Disease Model - We need more than 2 people in our "world" People interact with other people. <br> 1. create a list of 100 Persons (Our Population) <br> 2. code up a way so each Person interacts with 10 random people from the Population"
+  subtitle: "Joe and Jane Disease Model - We need more than 2 people in our 'world' People interact with other people. <br> 1) create a list of 100 Persons (Our Population) <br> 2. code up a way so each Person interacts with 10 random people from the Population"
   tags:
     - tag: Python
     - tag: Code Tasks
