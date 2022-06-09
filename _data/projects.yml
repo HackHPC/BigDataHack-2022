@@ -19,6 +19,8 @@
   introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   #github: Project Code Repo
   teamimage: assets/team_pictures/Team_Fireflies_ IntroSlide-250px.png
+  teampicture: assets/team_pictures/Team_Fireflies.jpg
+  checkinslide: assets/Team_Slides/Team_Checkins/Team_Fireflies_Checkin.pdf
 
 - name: "Team 5'432"
   demo: https://www.youtube.com/watch?v=lshzQJ1YAzU
@@ -26,6 +28,9 @@
   introslide: assets/Team_Slides/Team_5432_ IntroSlide.pdf
   github: https://github.com/christatsao/team5432
   teamimage: assets/team_pictures/Team_5432_ IntroSlide-250px.png
+  teampicture: assets/team_pictures/Team_5432.jpg
+  checkinslide: assets/Team_Slides/Team_Checkins/Team_5432_Checkin.pdf
+
 
 - name: "Team Indigo"
   demoo: https://www.youtube.com/watch?v=IQNBQI3UDag
@@ -33,13 +38,17 @@
   introslide: assets/Team_Slides/Team_Indigo_ IntroSlide .pdf
   github: https://github.com/Christine1302/Team-Indigo
   teamimage: assets/team_pictures/Team_Indigo_ IntroSlide -250px.png
+  teampicture: assets/team_pictures/Team_indigo.jpg
+  checkinslide: assets/Team_Slides/Team_Checkins/Team_Indigo_Checkin.pdf
 
 - name: "Team Bulletproof"
   demo: https://www.youtube.com/watch?v=Vcljvd4Ef_o
   descr: "On average how long does it take a person to get infected after being exposed? How does this change with age?"
   introslide: assets/Team_Slides/Team_Bulletproof_ IntroSlide.pdf
-  #github: Project Code Repo
+  github: https://github.com/tobeono3/Bulletproof- 
   teamimage: assets/team_pictures/Team_Bulletproof_ IntroSlide 2-250px.png
+  teampicture: assets/team_pictures/Team_Bulletproof.jpg
+  checkinslide: assets/Team_Slides/Team_Checkins/Team_Bulletproof_Checkin.pdf
 
 - name: "Team Paragon"
   demo: https://youtu.be/8a-HfNE3EIo
@@ -47,6 +56,8 @@
   introslide: assets/Team_Slides/Team_Paragon_ IntroSlide.pdf
   #github: Project Code Repo
   teamimage: assets/team_pictures/Team_Paragon_ IntroSlide-250px.png
+  teampicture: assets/team_pictures/Team_Paragon.jpg
+  checkinslide: assets/Team_Slides/Team_Checkins/Team_Paragon_Checkin.pdf
   
 #- name: project Z
 #  descr: "You can also set a project without demo link and no tags"
