@@ -18,7 +18,12 @@
             Team Theme Song 
           </a>
         {% endif %}
-        <p class="project-desc">{{project.descr}}</p>
+        {% if project.revisedgoal %}
+          <p class="project-desc">{{project.revisedgoal}}</p>
+          <p class="project-desc"><s>{{project.descr}}</s></p>
+        {% else %}
+          <p class="project-desc">{{project.descr}}</p>
+        {% endif %}
         {% if project.teampicture %}
         <a class="highlight-link" href="{{project.teampicture}}" target="_blank" rel="noreferrer">
             Team Picture
