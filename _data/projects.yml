@@ -15,6 +15,7 @@
 
 - name: "Team Firefly"
   demo: https://www.youtube.com/watch?v=QBgl4rVz3Ks
+  revisedgoal: "Program the strength of Jane’s immune system <br> &emsp;- If she has a healthy diet, then we decrease her chances of getting sick <br> &emsp;- We’ll increase her chances of getting sick with a poor diet"
   descr: "How strong is Jane’s immune system?"
   introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   #github: Project Code Repo
@@ -24,6 +25,7 @@
 
 - name: "Team 5'432"
   demo: https://www.youtube.com/watch?v=lshzQJ1YAzU
+  revisedgoal: "How much does social distancing effect the transmissibility of the virus?"
   descr: "How much does wearing a mask effect the transmissibility of the virus? <br> &emsp; - Different material masks? <br> &emsp; - Double masking?"
   introslide: assets/Team_Slides/Team_5432_ IntroSlide.pdf
   github: https://github.com/christatsao/team5432
@@ -33,7 +35,8 @@
 
 
 - name: "Team Indigo"
-  demoo: https://www.youtube.com/watch?v=IQNBQI3UDag
+  demo: https://www.youtube.com/watch?v=IQNBQI3UDag
+  # revisedgoal: 
   descr: "What factors affect the number of days someone is sick? (immunocompromised; vaccinated, age, etc?)"
   introslide: assets/Team_Slides/Team_Indigo_ IntroSlide .pdf
   github: https://github.com/Christine1302/Team-Indigo
@@ -43,6 +46,7 @@
 
 - name: "Team Bulletproof"
   demo: https://www.youtube.com/watch?v=Vcljvd4Ef_o
+  revisedgoal: "On average how many people will a sick person infect with the illness?"
   descr: "On average how long does it take a person to get infected after being exposed? How does this change with age?"
   introslide: assets/Team_Slides/Team_Bulletproof_ IntroSlide.pdf
   github: https://github.com/tobeono3/Bulletproof- 
@@ -52,6 +56,7 @@
 
 - name: "Team Paragon"
   demo: https://youtu.be/8a-HfNE3EIo
+  revisedgoal: "How fast does the virus spread?"
   descr: "How does the virus spread?(common object, direct contact)<br> &emsp; - How fast is the virus spreading? - rate of spread <br> &emsp; - How high does Jane’s susceptibility rate increase?(dv/dt)"
   introslide: assets/Team_Slides/Team_Paragon_ IntroSlide.pdf
   #github: Project Code Repo
