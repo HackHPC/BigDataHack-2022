@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: "Deliverables Due 6/10"
 # about_me_description: This will be displayed under the title.
-about_me_description: "Each team will need to create a code  repository at https://github.com for their team project. The link to the repository should be posted to the REU Slack channel prior to your presentation. <br><br> The Github repo should include: <br> &ensp; * Source Code <br> &ensp; * README.md with Team Name and Team Members <br> &ensp; * Presentation in PDF form with <br> &emsp; - Team Name<br> &emsp; - Team Members<br> &emsp; - Question Posed<br> &emsp; - Findings with Visualizations" 
+about_me_description: "Each team will need to create a code  repository at https://github.com for their team project. The link to the repository should be posted to the Slack Workspace TACC-Learn in the #2022_hackattacc channel prior to your presentation. <br><br> The Github repo should include: <br> &ensp; * Source Code <br> &ensp; * README.md with Team Name and Team Members <br> &ensp; * Presentation in PDF form with <br> &emsp; - Team Name<br> &emsp; - Team Members<br> &emsp; - Question Posed<br> &emsp; - Findings with Visualizations" 
 
 # SKILLS SECTION
 # show_skills_card:
