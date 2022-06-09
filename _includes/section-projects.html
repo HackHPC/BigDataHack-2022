@@ -19,9 +19,19 @@
           </a>
         {% endif %}
         <p class="project-desc">{{project.descr}}</p>
+        {% if project.teampicture %}
+        <a class="highlight-link" href="{{project.teampicture}}" target="_blank" rel="noreferrer">
+            Team Picture
+          </a>
+        {% endif %}
         {% if project.introslide %}
         <a class="highlight-link" href="{{project.introslide}}" target="_blank" rel="noreferrer">
             Intro Slide 
+          </a>
+        {% endif %}
+        {% if project.checkinslide %}
+        <a class="highlight-link" href="{{project.checkinslide}}" target="_blank" rel="noreferrer">
+            Checkin Slide 
           </a>
         {% endif %}
         {% if project.github %}
