@@ -69,3 +69,12 @@
     - tag: Python
     - tag: Code Tasks
   timeline-side: left
+  
+- title: Day 4 - Coding Example Task 5
+  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/Task5_working.ipynb
+  date: June 9, 2022
+  subtitle: "Create DataFrames and Graphs of your results"
+  tags:
+    - tag: Python
+    - tag: Code Tasks
+  timeline-side: left
