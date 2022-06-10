@@ -18,7 +18,7 @@
   revisedgoal: "Program the strength of Jane’s immune system <br> &emsp;- If she has a healthy diet, then we decrease her chances of getting sick <br> &emsp;- We’ll increase her chances of getting sick with a poor diet"
   descr: "How strong is Jane’s immune system?"
   introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
-  #github: Project Code Repo
+  github: https://github.com/jonimccawley/TeamFireflies-
   teamimage: assets/team_pictures/Team_Fireflies_ IntroSlide-250px.png
   teampicture: assets/team_pictures/Team_Fireflies.jpg
   checkinslide: assets/Team_Slides/Team_Checkins/Team_Fireflies_Checkin.pdf
@@ -35,7 +35,8 @@
 
 
 - name: "Team Indigo"
-  demo: https://www.youtube.com/watch?v=IQNBQI3UDag
+  # demo: https://www.youtube.com/watch?v=IQNBQI3UDag
+  demo: https://youtu.be/xTlNMmZKwpA
   # revisedgoal: 
   descr: "What factors affect the number of days someone is sick? (immunocompromised; vaccinated, age, etc?)"
   introslide: assets/Team_Slides/Team_Indigo_ IntroSlide .pdf
@@ -59,7 +60,7 @@
   revisedgoal: "How fast does the virus spread?"
   descr: "How does the virus spread?(common object, direct contact)<br> &emsp; - How fast is the virus spreading? - rate of spread <br> &emsp; - How high does Jane’s susceptibility rate increase?(dv/dt)"
   introslide: assets/Team_Slides/Team_Paragon_ IntroSlide.pdf
-  #github: Project Code Repo
+  github: https://github.com/TeamParagon123/TeamParagon
   teamimage: assets/team_pictures/Team_Paragon_ IntroSlide-250px.png
   teampicture: assets/team_pictures/Team_Paragon.jpg
   checkinslide: assets/Team_Slides/Team_Checkins/Team_Paragon_Checkin.pdf
