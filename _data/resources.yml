@@ -1,0 +1,29 @@
+helpfullinks:
+- name: "Designsafe-CI"
+  url: https://www.designsafe-ci.org
+- name: SC22 SIR Example Code [Github]
+  url: https://github.com/HackHPC/StudentHackatSC22/tree/master/SC22-hack
+- name: Supercomputing22
+  url: https://sc22.supercomputing.org
+- name: HackHPC
+  url: http://hackhpc.org
+- name: Texas Advanced Computing Center
+  url: https://www.tacc.utexas.edu 
+- name: Center for Desease Control
+  url: https://www.cdc.gov
+- name: SIR (susceptible(S), infectious(I), and recovered or removed (R)) Model
+  url: https://www.sciencedirect.com/topics/mathematics/sir-model
+- name: (SciPython) The SIR epidemic model
+  url: https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model
+- name: "R. M. Anderson and R. M. May, Infectious Diseases of Humans: Dynamics and Control, OUP (1992)"
+  url: http://www.amazon.co.uk/Infectious-Diseases-Humans-Dynamics-Publications/dp/019854040X
+- name: Project Jupyter | JupyterHub
+  url: https://jupyter.org/hub
+- name: Individual Hospital Statistics for Texas
+  url: https://www.ahd.com/states/hospital_TX.html
+- name: Example Hospitalization Rates Pre-Vaccine
+  url: https://www.cdc.gov/mmwr/volumes/69/wr/mm6915e3.htm
+- name: Death Rates between Vaccinated and Unvaccinated
+  url: https://www.cdc.gov/mmwr/volumes/71/wr/mm7104e2.htm#T1_down
+- name: Mask Effectiveness
+  url: https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm 
