@@ -17,64 +17,31 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Day 2 - Python Slides
-  title-url: https://github.com/HackHPC/HackatTACC-2022/tree/gh-pages/assets/slides/tuesday_files
-  date: June 7, 2022
-  subtitle: "Intro to Python and Code Challenge/Computational Thinking"
+- title: Day 1 - Development Enviroment Setup
+  title-url: https://www.designsafe-ci.org/
+  date: December 6, 2022
+  subtitle: "Setting up and logging into DesignSafe-CI Accounts"
   tags:
-    - tag: Python
+    - tag: DesignSafe-CI
     - tag: Jupyter
   timeline-side: left
 
-- title: Day 2 - Coding Example Task 1
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/tuesday_files/Task1.ipynb
-  date: June 7, 2022
-  subtitle: "Joe Disease Model - Let's meet Joe. Joe might get sick. Joe will be sick for 5 days. After 5 days, Joe gets better. Once Joe gets better, Joe can no longer get sick."
+- title: Day 1 - Computational Thinking
+  #title-url: Add slide link
+  date: December 6, 2022
+  subtitle: "Intro to Python and Code Challenge/Computational Thinking"
   tags:
-    - tag: Python
-    - tag: Code Tasks
-  timeline-side: left
- 
-- title: Day 3 - Slides Extended
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/
-  subtitle: "Addition of Jane to the Disease Model and the SIR Model"
-  tags:
-    - tag: Python
-    - tag: Code Tasks
-  timeline-side: right 
- 
-- title: Day 3 - Coding Example Task 2
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/Task2_working.ipynb
-  date: June 8, 2022
-  subtitle: "Joe and Jane Disease Model - Let's meet Joe. Joe has a friend, Jane If Joe gets sick, Jane might get sick. Modify your code, so when Joe gets sick that triggers Jane to roll a random number to see if she gets sick. Loop through your code until both Joe and Jane get sick and they each get better."
-  tags:
-    - tag: Python
-    - tag: Code Tasks
+    - tag: CIR Model
+    - tag: Jupyter
   timeline-side: right
-  
-- title: Day 4 - Coding Example Task 3
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/Task3_working.ipynb
-  date: June 9, 2022
-  subtitle: "Joe and Jane Disease Model - We need more than 2 people in our 'world' People interact with other people. <br> 1) create a list of 100 Persons (Our Population) <br> 2. code up a way so each Person interacts with 10 random people from the Population"
-  tags:
-    - tag: Python
-    - tag: Code Tasks
-  timeline-side: left
-  
-- title: Day 4 - Coding Example Task 4
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/Task4_working.ipynb
-  date: June 9, 2022
-  subtitle: "Joe and Jane Disease Model - Add a population object that controls the people object interactions"
-  tags:
-    - tag: Python
-    - tag: Code Tasks
-  timeline-side: left
-  
-- title: Day 4 - Coding Example Task 5
-  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/Task5_working.ipynb
-  date: June 9, 2022
-  subtitle: "Create DataFrames and Graphs of your results"
-  tags:
-    - tag: Python
-    - tag: Code Tasks
-  timeline-side: left
+
+
+#- title: Day 3 - Slides Extended
+#  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/wednesday_files/
+#  subtitle: "Addition of Jane to the Disease Model and the SIR Model"
+#  tags:
+#    - tag: Python
+#    - tag: Code Tasks
+#  timeline-side: right 
+ 
+
