@@ -65,8 +65,13 @@
     <section class="card neumorphism-card-big">
       <h2> Resources </h2>
       <ul>
-        <li> </li>
-      </ul>
+        {% for link in site.data.resources.helpfullinks %}
+        <li>
+           <strong>{{ link.name }}</strong> - <a href="{{ link.url }}" target="_blank">{{ link.url }} </a>
+        </li>
+
+        {% endfor %}
+    <ul>
       
     </section>  
   </div>
