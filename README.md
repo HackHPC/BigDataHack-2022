@@ -1,5 +1,5 @@
-# Hack@TACC 2022 REU Coding Challenge
-Dec 6th - 9th, 2022 San Jose, Costa Rica
+# Big Data Hack @ RedCONARE
+Dec 6th - 9th, 2022 @ Colaboratorio Nacional de Computación Avanzada San José, Costa Rica
 
 The purpose of this site is to serve as an event landing page for the training and hackathon event held for the 2022 Research Experience for Undergraduates (REU) students. The training focuses on computational thinking/application focused on Python programming within a Jupyter Notebook IDE and the operationalization of a Disease Propigation Model. 
 
