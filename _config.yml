@@ -2,19 +2,27 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Hack@TACC22
+title: Big Data Hack @ RedCONARE
 # description: This will be meta HTML tag content. This can be ignored.
-description: TACC REU Code Challenge 2022
+description: >
+  The Costa Rica National Research and Education Network: RedCONARE and the Costa Rica National High 
+  Technology Center (CeNAT) are proud to host the sixth Costa Rica Big Data School 2022.
+  This school will be hands-on style. Working with live coding in conjunction with lectures discussing 
+  the art of scientific programming, algorithm design, and data science. Instructors will guide attendees 
+  through the Computational Research cycle. Students will participate in a coding challenge to develop 
+  a computational model writing code in Python, generate data to verify and validate information, applying 
+  machine learning techniques to the data set and find interesting outcomes and revalidate the data.
+
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "https://hackhpc.github.io/HackatTACC-2022"
+baseurl: "https://hackhpc.github.io/BigDataHack-2022"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: "Participant"
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: "Hack@TACC REU Code Challenge 2022"
+typing_text: " Big Data Hack @ RedCONARE"
 # email: Your E-Mail address for the email button.
 email: jpowell@tacc.utexas.edu
 # For every social button you want to display, set your username or userid
