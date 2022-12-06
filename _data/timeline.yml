@@ -48,6 +48,7 @@
       affiliationurl: "https://www.tacc.utexas.edu/about/directory/niall-gaffney"
       contact: "mailto:ngaffney@tacc.utexas.edu"
       contacttype: Email
+      slides: assets/slides/tuesday_files/Naill-CostaRica-AI.pdf
   tags:
     - tag: CIR Model
     - tag: Jupyter
