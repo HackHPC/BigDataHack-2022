@@ -24,6 +24,11 @@
   tags:
     - tag: DesignSafe-CI
     - tag: Jupyter
+  links:
+    - name: DesignSafe
+      url: https://www.designsafe-ci.org/
+    - name: TACC User Portal
+      url: https://portal.tacc.utexas.edu/
   timeline-side: left
 
 - title: Day 2 - Joe and Jane Model
@@ -35,6 +40,9 @@
     - tag: CIR Model
     - tag: Jupyter
   timeline-side: right
+  links:
+    - name: DesignSafe
+      url: https://www.designsafe-ci.org/   
 
 
 #- title: Day 3 - Slides Extended
