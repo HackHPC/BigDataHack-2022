@@ -27,7 +27,7 @@
               {{event.subtitle}}
               {% if event.links %}
               <br> <br>
-              <strong>Links:</strong>
+              <strong>Links:</strong><br>
               
                 {%for link in event.links %}
                  &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
