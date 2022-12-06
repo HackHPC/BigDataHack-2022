@@ -29,6 +29,10 @@
       url: https://www.designsafe-ci.org/
     - name: TACC User Portal
       url: https://portal.tacc.utexas.edu/
+    - name: "TACC and Computational Thinking Slides [PDF]"
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/BigDataHack22-Day1.pdf
+    - name: "Intro to Python"
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf
   timeline-side: left
 
 - title: Day 2 - Joe and Jane Model
@@ -41,8 +45,12 @@
     - tag: Jupyter
   timeline-side: right
   links:
+    - name: Day 2 Jypyter Notebooks, Joe, and Jane Sides [PDF]" 
+      url: "https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/tuesday_files/BigDataHack22-Day%202%20(1).pdf"
     - name: DesignSafe
-      url: https://www.designsafe-ci.org/   
+      url: https://www.designsafe-ci.org
+    - name: "Intro to Python"
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf   
 
 
 #- title: Day 3 - Slides Extended
