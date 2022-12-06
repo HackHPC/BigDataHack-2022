@@ -25,8 +25,44 @@
 
 - name: "Bazinga"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
-  teamimage: assets/Team_Slides/Bazinga-500px.png
+  teamimage: assets/Team_Slides/250px_Bazinga.png
 
+- name: "def group_name"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_defGroup_Name.png
+
+- name: "DevBug"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_DevBug.png
+
+- name: "Error 506"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_Error506.png
+
+- name: "Group Ubuntu506"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_GroupUbuntu506.png
+
+- name: "Little Data"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_LittleData.png
+
+- name: "Los 4 Fantasticos "
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_Los4Fantasticos.png
+
+- name: "TEC-NO-Lógicos"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_NoTechLogicos.png
+
+- name: "The Big Lab"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_TheBigLab.png
+
+- name: "The Christmas Greens"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/250px_TheChristmasGreens.png
+  
 
   
 
