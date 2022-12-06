@@ -22,3 +22,11 @@
 #  teamimage: assets/team_pictures/Team_Fireflies_ IntroSlide-250px.png
 #  teampicture: assets/team_pictures/Team_Fireflies.jpg
 #  checkinslide: assets/Team_Slides/Team_Checkins/Team_Fireflies_Checkin.pdf
+
+- name: "Bazinga"
+  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  teamimage: assets/Team_Slides/Bazinga.png
+
+
+  
+
