@@ -48,7 +48,7 @@
       affiliationurl: "https://www.tacc.utexas.edu/about/directory/niall-gaffney"
       contact: "mailto:ngaffney@tacc.utexas.edu"
       contacttype: Email
-      slides: assets/slides/tuesday_files/Naill-CostaRica-AI.pdf
+      slides: "https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/tuesday_files/Naill-CostaRica-AI.pdf"
   tags:
     - tag: CIR Model
     - tag: Jupyter
