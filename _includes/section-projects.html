@@ -39,6 +39,13 @@
             Checkin Slide 
           </a>
         {% endif %}
+        {% if project.themesong %}
+        <a class="highlight-link" href="{{project.themesong}}" target="_blank" rel="noreferrer">
+            Team Theme Song 
+          </a>
+        {% endif %}
+
+        
         {% if project.github %}
         <a class="highlight-link" href="{{project.github}}" target="_blank" rel="noreferrer">
             Github Repo 

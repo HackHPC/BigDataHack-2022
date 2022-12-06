@@ -26,42 +26,52 @@
 - name: "Bazinga"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Bazinga.png
+  themesong: https://youtu.be/CMSYv_Z4SI8
 
 - name: "def group_name"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_defGroup_Name.png
+  themesong: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 - name: "DevBug"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_DevBug.png
+  themesong: https://youtu.be/KXw8CRapg7k
 
 - name: "Error 506"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Error506.png
+  themesong: https://www.youtube.com/watch?v=VcjzHMhBtf0
 
 - name: "Group Ubuntu506"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_GroupUbuntu506.png
+  themesong: https://www.youtube.com/watch?v=zRHzWrWIXog
 
 - name: "Little Data"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_LittleData.png
+  themesong: https://www.youtube.com/watch?v=IwzkfMmNMpM
 
 - name: "Los 4 Fantasticos "
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Los4Fantasticos.png
+  themesong: https://www.youtube.com/watch?v=pWBXBo7ZH-E&ab_channel=EverettGilbert
 
 - name: "TEC-NO-Lógicos"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_NoTechLogicos.png
+  themesong: https://www.youtube.com/watch?v=-vkZ91v3mt4
 
 - name: "The Big Lab"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_TheBigLab.png
+  themesong: https://youtu.be/Pt28Ex-ta0E
 
 - name: "The Christmas Greens"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_TheChristmasGreens.png
+  themesong: https://www.youtube.com/watch?v=rqAnXE7vzRw
   
 
   
