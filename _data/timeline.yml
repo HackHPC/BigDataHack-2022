@@ -42,6 +42,12 @@
   date: December 7, 2022
   subtitle: "Intro to Python and Code Challenge/Computational Thinking"
   title-url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/tuesday_files
+  speakers:
+    - name: "Niall Gaffney"
+      affiliation: TACC
+      affiliationurl: "https://www.tacc.utexas.edu/about/directory/niall-gaffney"
+      contact: "mailto:ngaffney@tacc.utexas.edu"
+      contacttype: Email
   tags:
     - tag: CIR Model
     - tag: Jupyter
