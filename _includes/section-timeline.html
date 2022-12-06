@@ -38,6 +38,9 @@
                   {% if speaker.affiliation %}
                      <em><a href="{{ speaker.affiliationurl }}" target="_blank"> ({{ speaker.affiliation }})</a></em> 
                   {% endif %}
+                  {% if speaker.slides %}
+                    <a href="{{ speaker.slides }}" target="_blank"> [Slides] </a>
+                  {% endif %}
                 {% endfor %}
               {% endif %}
               
