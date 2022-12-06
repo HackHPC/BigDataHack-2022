@@ -17,7 +17,7 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: Day 1 - Development Enviroment Setup
+- title: Day 1 - Development Enviroment Setup and Computational Thinking
   title-url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/monday_files
   date: December 6, 2022
   subtitle: "Setting up and logging into DesignSafe-CI Accounts"
@@ -26,10 +26,11 @@
     - tag: Jupyter
   timeline-side: left
 
-- title: Day 1 - Computational Thinking
+- title: Day 2 - Joe and Jane Model
   #title-url: Add slide link
-  date: December 6, 2022
+  date: December 7, 2022
   subtitle: "Intro to Python and Code Challenge/Computational Thinking"
+  title-url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/tuesday_files
   tags:
     - tag: CIR Model
     - tag: Jupyter
