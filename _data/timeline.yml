@@ -33,6 +33,8 @@
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/BigDataHack22-Day1.pdf
     - name: "Intro to Python"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf
+    - name: "Big Data Hackathon Group Slides [PDF]"
+      url: "assets/slides/monday_files/Big Data Groups.pdf
   timeline-side: left
 
 - title: Day 2 - Joe and Jane Model
