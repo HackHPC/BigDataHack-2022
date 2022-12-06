@@ -26,6 +26,7 @@
             <div class="desc neumorphism-card" data-aos="zoom-in-right">
               {{event.subtitle}}
               {% if event.links %}
+              <strong>Links:</strong>
               <ul>
                 {%for link in event.links %}
                   <li> <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a> </li>
