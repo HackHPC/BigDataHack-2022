@@ -86,6 +86,39 @@
             </div>
             <div class="desc neumorphism-card" data-aos="zoom-in-left">
               {{event.subtitle}}
+              
+              {% if event.speakers %}
+              <br><br>
+              <strong>Guest Speakers:</strong>
+              <br>
+                {% for speaker in event.speakers %}
+                &#8226; &nbsp; {{ speaker.name }} 
+                  {% if speaker.contact %}
+                    <a href="{{ speaker.contact }}" target="_blank"> [{{ speaker.contacttype }}]] </a>
+                  {% endif %}
+                  {% if speaker.affiliation %}
+                     <em><a href="{{ speaker.affiliationurl }}" target="_blank"> ({{ speaker.affiliation }})</a></em> 
+                  {% endif %}
+                  {% if speaker.slides %}
+                    <a href="{{ speaker.slides }}" target="_blank"> [Slides] </a>
+                  {% endif %}
+                
+                  {% endfor %}
+              {% endif %}
+              
+             
+              {% if event.links %}
+              <br> <br>
+              <strong>Links:</strong><br>
+              
+                {%for link in event.links %}
+                 &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
+
+                {% endfor %}
+              
+              {% endif %}
+
+
               {% if event.tags %}
                 <div class="tag-wrapper">
                   {% for tag in event.tags %}
