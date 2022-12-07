@@ -77,9 +77,9 @@
       affiliationurl: "https://www.tec.ac.cr/saul-calderon"
       contact: "mailto:saul1917@gmail.com"
       contacttype: Email
-  #links:
-  #  - name: Day 3 Jypyter Notebooks, Joe, and Jane Sides [PDF]" 
-  #    url:
+  links:
+    - name: Day 3 Jypyter Notebooks, Joe, and Jane Sides [PDF]" 
+      url: 
 
 
 #- title: Day 4 - Machine Learning and Hackathon
