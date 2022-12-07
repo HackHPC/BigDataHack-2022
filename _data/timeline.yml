@@ -59,7 +59,9 @@
     - name: DesignSafe
       url: https://www.designsafe-ci.org
     - name: "Intro to Python"
-      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf   
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf 
+    - name: Joe and Jane Working Example Code [IPYNB]
+      url:   
 
 
 #- title: Day 3 - Slides Extended
