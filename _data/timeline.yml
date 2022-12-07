@@ -78,8 +78,8 @@
       contact: "mailto:saul1917@gmail.com"
       contacttype: Email
   links:
-    - name: Day 3 Jypyter Notebooks, Joe, and Jane Sides [PDF]" 
-      url: 
+    - name: Day 3 Population Model Slides [PDF]" 
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/BigDataHack22-Day3.pdf
 
 
 #- title: Day 4 - Machine Learning and Hackathon
