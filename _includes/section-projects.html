@@ -15,12 +15,8 @@
         </div>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            {% if project.themsongtitle %}
-             {{ project.themsongtitle }}
-            {% else %}
-            Team Theme Song
-            {% endif %} 
-          </a>
+            [Project Demo]
+            </a>
         {% endif %}
         
         {% if project.links %}
@@ -39,7 +35,7 @@
                 {{ link.name }}
                 <br>
             {% endif %}
-            
+
           {% endfor %}
         {% endif %}
 
@@ -53,7 +49,7 @@
         {% endif %}
         {% if project.teampicture %}
         <a class="highlight-link" href="{{project.teampicture}}" target="_blank" rel="noreferrer">
-            Team Picture
+            [&#57352;Team Picture]
           </a>
         {% endif %}
         {% if project.introslide %}
@@ -68,7 +64,11 @@
         {% endif %}
         {% if project.themesong %}
         <a class="highlight-link" href="{{project.themesong}}" target="_blank" rel="noreferrer">
-            Team Theme Song 
+          {% if project.themsongtitle %}
+          [&#127925;{{ project.themsongtitle }}]
+          {% else %}
+          [&#127925; Team Theme Song]
+          {% endif %} 
           </a>
         {% endif %}
 

@@ -27,7 +27,7 @@
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Bazinga.png
   themesong: https://youtu.be/CMSYv_Z4SI8
-  themsongtitle: 
+  themsongtitle: "The Big Bang Theory Song - Barenaked Ladies"
 #  links:
 #    - name:
 #    - type:
@@ -37,46 +37,91 @@
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_defGroup_Name.png
   themesong: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  themsongtitle: "Never Gonna Give You Up - Rick Astley"
+  #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "DevBug"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_DevBug.png
   themesong: https://youtu.be/KXw8CRapg7k
+  themsongtitle: "We are the champions - Queen"
+  #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "Error 506"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Error506.png
   themesong: https://www.youtube.com/watch?v=VcjzHMhBtf0
+  themsongtitle: "Don't Stop Believin - Journey"
+  #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "Group Ubuntu506"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_GroupUbuntu506.png
   themesong: https://www.youtube.com/watch?v=zRHzWrWIXog
+  themsongtitle: "Eye Of The Tiger - Survivor"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "Little Data"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_LittleData.png
   themesong: https://www.youtube.com/watch?v=IwzkfMmNMpM
+  themsongtitle: "Dreamers - Jung Kook (of BTS) featuring Fahad Al Kubaisi"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "Los 4 Fantasticos "
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Los4Fantasticos.png
   themesong: https://www.youtube.com/watch?v=pWBXBo7ZH-E&ab_channel=EverettGilbert
+  themsongtitle: "Chicago Bulls Theme - Allan Parsons Project"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "TEC-NO-Lógicos"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_NoTechLogicos.png
   themesong: https://www.youtube.com/watch?v=-vkZ91v3mt4
+  themsongtitle: "A Cachete - BLOKE"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "The Big Lab"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_TheBigLab.png
   themesong: https://youtu.be/Pt28Ex-ta0E
+  themsongtitle: "El Laboratorio de Dexter Intro"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "The Christmas Greens"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_TheChristmasGreens.png
   themesong: https://www.youtube.com/watch?v=rqAnXE7vzRw
+  themsongtitle: "All Star - Smash Mouth"
+    #  links:
+#    - name:
+#    - type:
+#    - url: 
   
 
   
