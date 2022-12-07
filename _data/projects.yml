@@ -27,6 +27,11 @@
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
   teamimage: assets/Team_Slides/250px_Bazinga.png
   themesong: https://youtu.be/CMSYv_Z4SI8
+  themsongtitle: 
+#  links:
+#    - name:
+#    - type:
+#    - url: 
 
 - name: "def group_name"
   #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf

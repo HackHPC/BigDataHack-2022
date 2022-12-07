@@ -15,9 +15,36 @@
         </div>
         {% if project.demo %}
           <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Team Theme Song 
+            {% if project.themsongtitle %}
+             {{ project.themsongtitle }}
+            {% else %}
+            Team Theme Song
+            {% endif %} 
           </a>
         {% endif %}
+        
+        {% if project.links %}
+          {% for link in project.links %}
+            {% if link.url %}
+              <a href="{{ link.url }}" target="_blank"> {{ link.name }} 
+                {% if link.type %}
+                [{{ link.type }}] 
+                {% endif %}
+              </a>
+            {% else %}
+                <br>
+                {% if link.type %}
+                <em>{{ link.type }}: </em> 
+                {% endif %}
+                {{ link.name }}
+                <br>
+            {% endif %}
+            
+          {% endfor %}
+        {% endif %}
+
+       
+
         {% if project.revisedgoal %}
     <p class="project-desc"><i>[Revised]</i> <br>{{project.revisedgoal}}</p>
           <p class="project-desc"><s>{{project.descr}}</s></p>
