@@ -63,13 +63,15 @@
           </a>
         {% endif %}
         {% if project.themesong %}
+        <br>
+        [&#127925;Theme Song:] <br>
         <a class="highlight-link" href="{{project.themesong}}" target="_blank" rel="noreferrer">
           {% if project.themsongtitle %}
-          [&#127925;{{ project.themsongtitle }}]
+          {{ project.themsongtitle }}
           {% else %}
           [&#127925; Team Theme Song]
           {% endif %} 
-          </a>
+          </a> <br>
         {% endif %}
 
         
