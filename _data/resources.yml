@@ -27,3 +27,7 @@ helpfullinks:
   url: https://www.cdc.gov/mmwr/volumes/71/wr/mm7104e2.htm#T1_down
 - name: Mask Effectiveness
   url: https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm 
+- name: Deep Uncertainty Presentation
+  url: https://toolkit.climate.gov/content/decision-making-under-deep-uncertainty
+- name: "(EMAWorkBench) Fuzzy Logic Machine Learning Python Library"
+  url: https://emaworkbench.readthedocs.io/en/latest/
