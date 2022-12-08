@@ -84,6 +84,8 @@
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/SIR-Model-2022.ipynb
     - name: "TACC-Learn Slack Channel #2022_bigdatahack"
       url: https://join.slack.com/t/tacc-learn/shared_invite/zt-1l7a0ue9f-BXA7C7_TkUj70hsLwbUFoA
+    - name: "SIR Model with Objects for Person and Population [IPYNB]"
+      url:  https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/SIR-Model-with-Person-Population-Objects.ipynb
 
 
 - title: Day 4 - Machine Learning and Hackathon
@@ -104,6 +106,9 @@
   links:
     - name: "Day 4 Adding an Intervention (Masks)"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/BigDataHack22-Day4.pdf
+    - name: "SIR Model with Mask Intervention [IPYNB]"
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/SIR-Model-with-Masks.ipynb
+
     - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
     - name: Example Dataset Creation and Machine Learning Code" 
