@@ -86,26 +86,26 @@
       url: https://join.slack.com/t/tacc-learn/shared_invite/zt-1l7a0ue9f-BXA7C7_TkUj70hsLwbUFoA
 
 
-#- title: Day 4 - Machine Learning and Hackathon
-#  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/
-#  subtitle: "Creation of Datasets and use of SciKit-Learn for Machine Learning. Start of the hackathon."
-#  tags:
-#    - tag: Python
-#    - tag: Code Tasks
-#    - tag: Machine Learning
-#    - tag: Hackathon
-#  timeline-side: right 
-#speakers:
-#    - name: "Lilliana Sancho Chavarría"
-#      affiliation: "Tecnológico de Costa Rica"
-#      affiliationurl: "https://www.tec.ac.cr/lilliana-sancho-chavarria"
-#      contact: "mailto:lsancho@itcr.ac.cr"
-#      contacttype: Email
-#links:
-#    - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
-#      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
-#    - name: Example Dataset Creation and Machine Learning Code" 
-#      url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
+- title: Day 4 - Machine Learning and Hackathon
+  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/
+  subtitle: "Creation of Datasets and use of SciKit-Learn for Machine Learning. Start of the hackathon."
+  tags:
+    - tag: Python
+    - tag: Code Tasks
+    - tag: Machine Learning
+    - tag: Hackathon
+  timeline-side: right 
+speakers:
+    - name: "Lilliana Sancho Chavarría"
+      affiliation: "Tecnológico de Costa Rica"
+      affiliationurl: "https://www.tec.ac.cr/lilliana-sancho-chavarria"
+      contact: "mailto:lsancho@itcr.ac.cr"
+      contacttype: Email
+links:
+    - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
+    - name: Example Dataset Creation and Machine Learning Code" 
+      url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
  
 
 
