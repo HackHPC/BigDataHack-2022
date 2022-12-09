@@ -31,7 +31,7 @@
                 {% if link.target == 'remote' %}
                 &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} 
               {% else %}
-                &#8226; &nbsp; <a href="{{ site.baseurl }}/blob/gh-pages/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }}
+                &#8226; &nbsp; <a href="{{ site.baseurl }}/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }}
               {% endif %} 
                 {% if link.type %}
                 [{{ link.type }}] 
