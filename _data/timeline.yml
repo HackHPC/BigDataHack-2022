@@ -158,9 +158,6 @@
   #      contact: ""
   #      contacttype: Email
   links:
-    - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
-      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
-      
-    - name: Example Dataset Creation and Machine Learning Code" 
-      url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
-      
+    - name: Final Presentations Sildes
+      url: https://docs.google.com/presentation/d/1IGXhK5tckTpr1h55RXIP-Ye-OYEwFVSNPm7O4TTRPwM/edit?usp=sharing      
+   
