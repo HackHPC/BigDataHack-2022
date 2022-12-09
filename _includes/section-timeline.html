@@ -50,12 +50,11 @@
               <br> <br>
               <strong>Links:</strong><br>
               
-                {%for link in event.links %}
-                 {% if link.target == 'remote' %}
-                   &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
-                 {% else %}
+                {% for link in event.links %}
+                 
+                
                   &#8226; &nbsp; <a href="{{ site.baseurl }}/blob/gh-pages/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
-                 {% endif %}
+               
                 {% endfor %}
               
               {% endif %}
@@ -115,11 +114,9 @@
               <strong>Links:</strong><br>
               
                 {%for link in event.links %}
-                  {% if link.target == 'remote' %}
+                  
                     &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
-                  {% else %}
-                    &#8226; &nbsp; <a href="{{ site.baseurl }}/blob/gh-pages/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
-                  {% endif %}
+                 
                 {% endfor %}
               
               {% endif %}
