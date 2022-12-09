@@ -146,18 +146,18 @@
   tags:
     - tag: Hackathon
   timeline-side: left 
-speakers:
+  speakers:
     - name: "Ana Paola Mora Murillo"
-#      affiliation: ""
-#      affiliationurl: ""
-#      contact: ""
-#      contacttype: Email
+  #      affiliation: ""
+  #      affiliationurl: ""
+  #      contact: ""
+  #      contacttype: Email
     - name: "Sofía Ulloa"
-#      affiliation: ""
-#      affiliationurl: ""
-#      contact: ""
-#      contacttype: Email
-links:
+  #      affiliation: ""
+  #      affiliationurl: ""
+  #      contact: ""
+  #      contacttype: Email
+  links:
     - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
       
