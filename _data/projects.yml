@@ -26,7 +26,29 @@
 - name: "Bazinga"
   introslide: assets/Team_Slides/Team_Intros/Bazinga-Intro.pdf
   github: https://github.com/MelissaGamboaPortfolio/CostaRicanBigDataSchool
-  descr:
+  descr: >
+    <ul>
+    <li><strong>[Problem] </strong> 
+      <ul>
+         <li> The model does not consider mask effectiveness and vaccination. 
+        </li>
+      </ul>
+    </li>
+    <li> <strong>[Intervention] </strong>
+      <ul>
+        <li>Mask effectiveness -Infection rate depends on mask type
+          N95, surgical mask, gauze, silk, etc.
+        </li>
+        <li>Vaccination - Infection rate decreases if vaccinated
+        </li>
+        </ul>
+    </li>
+    <li> <strong>[Goal(s)]</strong>
+      <ul>
+        <li>Analyze the reduction of infection considering different types of masks and vaccination. </li>
+      </ul>
+    </li>
+    </ul>
   teamimage: assets/Team_Slides/250px_Bazinga.png
   themesong: https://youtu.be/CMSYv_Z4SI8
   themsongtitle: "The Big Bang Theory Song - Barenaked Ladies"
