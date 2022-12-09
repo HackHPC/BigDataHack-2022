@@ -28,7 +28,7 @@
         {% if project.links %}
           {% for link in project.links %}
             {% if link.url %}
-                {% if link.target %}
+                {% if link.target == 'remote' %}
                 &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} 
               {% else %}
                 &#8226; &nbsp; <a href="{{ site.baseurl }}/blob/gh-pages/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }}
