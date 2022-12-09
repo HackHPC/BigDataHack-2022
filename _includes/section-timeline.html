@@ -51,8 +51,11 @@
               <strong>Links:</strong><br>
               
                 {%for link in event.links %}
-                 &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
-
+                 {% if link.target %}
+                   &#8226; &nbsp; <a href="{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
+                 {% else %}
+                  &#8226; &nbsp; <a href="{{ site.baseurl }}/blob/gh-pages/{{ link.url }}" target="_blank" style="color:orange; text-align: right;"> {{ link.name }} </a><br>
+                 {% endif %}
                 {% endfor %}
               
               {% endif %}

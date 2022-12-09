@@ -24,35 +24,38 @@
 #  checkinslide: assets/Team_Slides/Team_Checkins/Team_Fireflies_Checkin.pdf
 
 - name: "Bazinga"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  introslide: assets/Team_Slides/Team_Intros/Bazinga-Intro.pdf
+  github: https://github.com/MelissaGamboaPortfolio/CostaRicanBigDataSchool
   descr:
   teamimage: assets/Team_Slides/250px_Bazinga.png
   themesong: https://youtu.be/CMSYv_Z4SI8
   themsongtitle: "The Big Bang Theory Song - Barenaked Ladies"
-#  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/Bazinga-Goals.pdf
+#      target: remote
+
 
 - name: "def group_name"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  introslide: assets/Team_Slides/Team_Intros/defgroupname-Intro.pdf
+  github: https://github.com/Famodi/CRBDS2022
   descr: >
     <ul>
-    <li>[Problem]  
+    <li><strong>[Problem] </strong> 
       <ul>
          <li> Rate_vaccine analysis </li>
       </ul>
     </li>
-    <li> [Intervention] 
+    <li> <strong>[Intervention] </strong>
       <ul>
         <li>Create a attribute to person (rate_vaccine) </li>
         <li>Calculated the rate_vaccine to each person </li>
         <li>Determine the rate_infection with rate_vaccine </li>
         </ul>
     </li>
-    <li> [Goal(s)]
+    <li> <strong>[Goal(s)]</strong>
       <ul>
-        <li>¿Cuáles son los objetivos de su grupo? </li>
         <li>Determine the person’s rate_vaccine </li>
         <li>Show the rate_infection of population </li>
       </ul>
@@ -61,98 +64,115 @@
   teamimage: assets/Team_Slides/250px_defGroup_Name.png
   themesong: https://www.youtube.com/watch?v=dQw4w9WgXcQ
   themsongtitle: "Never Gonna Give You Up - Rick Astley"
-  #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+  #    target: remote
+      url: assets/Team_Slides/Team_Goals/def_group_name-Goals.pdf
 
 - name: "DevBug"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/entomolab/DevBug
+  introslide: assets/Team_Slides/Team_Intros/DevBug-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_DevBug.png
   themesong: https://youtu.be/KXw8CRapg7k
   themsongtitle: "We are the champions - Queen"
-  #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/DevBug-Goals.pdf
+#      target: remote 
 
 - name: "Error 506"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/valeeriau/Error-506
+  introslide: assets/Team_Slides/Team_Intros/Error506-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_Error506.png
   themesong: https://www.youtube.com/watch?v=VcjzHMhBtf0
   themsongtitle: "Don't Stop Believin - Journey"
-  #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/Error506-Goals.pdf
+#      target: remote 
 
 - name: "Group Ubuntu506"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/BrandCore/Ubuntu506
+  introslide: assets/Team_Slides/Team_Intros/GroupUbuntu506-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_GroupUbuntu506.png
   themesong: https://www.youtube.com/watch?v=zRHzWrWIXog
   themsongtitle: "Eye Of The Tiger - Survivor"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/Ubuntu506-Goals.pdf
+#      target: remote 
 
 - name: "Little Data"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/DavidXie10/Big-Data-Hack-2022
+  introslide: assets/Team_Slides/Team_Intros/LittleData-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_LittleData.png
   themesong: https://www.youtube.com/watch?v=IwzkfMmNMpM
   themsongtitle: "Dreamers - Jung Kook (of BTS) featuring Fahad Al Kubaisi"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/LittleData-Goals.pdf
+#      target: remote
 
 - name: "Los 4 Fantasticos "
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/Yeimyfa/los-4-fantasticos
+  introslide: assets/Team_Slides/Team_Intros/Los4Fantasticos-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_Los4Fantasticos.png
   themesong: https://www.youtube.com/watch?v=pWBXBo7ZH-E&ab_channel=EverettGilbert
   themsongtitle: "Chicago Bulls Theme - Allan Parsons Project"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/Los4Fantasticos-Goals.pdf
+#      target: remote
 
 - name: "TEC-NO-Lógicos"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://gitlab.com/plasmallan/big-data-school-2022
+  introslide: assets/Team_Slides/Team_Intros/TECNoLogicos-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_NoTechLogicos.png
   themesong: https://www.youtube.com/watch?v=-vkZ91v3mt4
   themsongtitle: "A Cachete - BLOKE"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/TEC-NoLogicos-Goals.pdf
+#      target: remote
 
 - name: "The Big Lab"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/revv-tech/Hackaton_TheBigLab
+  introslide: assets/Team_Slides/Team_Intros/TheBigLab-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_TheBigLab.png
   themesong: https://youtu.be/Pt28Ex-ta0E
   themsongtitle: "El Laboratorio de Dexter Intro"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/TheBigLab-Goals.pdf
+#      target: remote 
 
 - name: "The Christmas Greens"
-  #introslide: assets/Team_Slides/Team_Fireflies_ IntroSlide.pdf
+  github: https://github.com/karo1818/Christmas-greens
+  introslide: assets/Team_Slides/Team_Intros/TheChristmasGreens-Intro.pdf
   descr:
   teamimage: assets/Team_Slides/250px_TheChristmasGreens.png
   themesong: https://www.youtube.com/watch?v=rqAnXE7vzRw
   themsongtitle: "All Star - Smash Mouth"
-    #  links:
-#    - name:
-#    - type:
-#    - url: 
+  links:
+    - name: Team Goals
+      type: "[PDF]"
+      url: assets/Team_Slides/Team_Goals/ChristmasGreens-Goals.pdf
+#      target: remote
   
 
   

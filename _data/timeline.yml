@@ -27,14 +27,19 @@
   links:
     - name: DesignSafe
       url: https://www.designsafe-ci.org/
+      target: remote
     - name: TACC User Portal
       url: https://portal.tacc.utexas.edu/
+      target: remote
     - name: "TACC and Computational Thinking Slides [PDF]"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/BigDataHack22-Day1.pdf
+      target: remote
     - name: "Intro to Python"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf
+      target: remote
     - name: "Big Data Hackathon Group Intro Slides [PDF]"
       url: "https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Big%20Data%20Groups.pdf"
+      target: remote
   timeline-side: left
 
 - title: Day 2 - Joe and Jane Model
@@ -55,13 +60,17 @@
   links:
     - name: Day 2 Jypyter Notebooks, Joe, and Jane Sides [PDF]" 
       url: "https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/tuesday_files/BigDataHack22-Day%202%20(1).pdf"
+      target: remote
     - name: DesignSafe
       url: https://www.designsafe-ci.org
+      target: remote
     - name: "Intro to Python"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/monday_files/Python%20101.pdf 
+      target: remote
     - name: Joe and Jane Working Example Code [IPYNB]
       url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/tuesday_files/Task1.ipynb  
-
+      target: remote
+      
 - title: Day 3 - Population Model 
   date: December 7, 2022
   subtitle: "Creation of Person and Population Objects"
@@ -80,13 +89,16 @@
   links:
     - name: Day 3 Population Model Slides [PDF]" 
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/BigDataHack22-Day3.pdf
+      target: remote
     - name: "SIR Model Code [IPYNB]"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/SIR-Model-2022.ipynb
+      target: remote
     - name: "TACC-Learn Slack Channel #2022_bigdatahack"
       url: https://join.slack.com/t/tacc-learn/shared_invite/zt-1l7a0ue9f-BXA7C7_TkUj70hsLwbUFoA
+      target: remote
     - name: "SIR Model with Objects for Person and Population [IPYNB]"
       url:  https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/wednesday_files/SIR-Model-with-Person-Population-Objects.ipynb
-
+      target: remote
 
 - title: Day 4 - Machine Learning and Hackathon
   title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/thursday_files/
@@ -106,40 +118,49 @@
   links:
     - name: "Day 4 Adding an Intervention (Masks)"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/BigDataHack22-Day4.pdf
+      target: remote
     - name: "SIR Model with Mask Intervention [IPYNB]"
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/SIR-Model-with-Masks.ipynb
+      target: remote
     - name: Google Colab
       url: https://colab.research.google.com
+      target: remote
     - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
       url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
+      target: remote
     - name: Example Dataset Creation and Machine Learning Code" 
       url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
+      target: remote
     - name: "Group Goals Slide Deck [Google Slide]"
       url: "https://docs.google.com/presentation/d/1yJ8WJdVv8vu1I_FBF55Je_lOu4i5BdJ5085aFMRrzSg/edit?usp=sharing"
+      target: remote
     - name: GitHub 
       url: https://github.com
+      target: remote
  
 
 
-#- title: Day 5 - Hackathon and Closing 
-#  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/friday_files/
-#  subtitle: Hackathon group presentations and closing."
-#  tags:
-#    - tag: Hackathon
-#  timeline-side: left 
-#speakers:
-#    - name: "Ana Paola Mora Murillo"
+- title: Day 5 - Hackathon and Closing 
+  title-url: https://github.com/HackHPC/HackatTACC-2022/blob/gh-pages/assets/slides/friday_files/
+  subtitle: Hackathon group presentations and closing."
+  tags:
+    - tag: Hackathon
+  timeline-side: left 
+speakers:
+    - name: "Ana Paola Mora Murillo"
 #      affiliation: ""
 #      affiliationurl: ""
 #      contact: ""
 #      contacttype: Email
-#    - name: "Sofía Ulloa"
+    - name: "Sofía Ulloa"
 #      affiliation: ""
 #      affiliationurl: ""
 #      contact: ""
 #      contacttype: Email
-#links:
-#    - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
-#      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
-#    - name: Example Dataset Creation and Machine Learning Code" 
-#      url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
+links:
+    - name: Day 4 Introduction to Machine Learning Sides [PDF]" 
+      url: https://github.com/HackHPC/BigDataHack-2022/blob/gh-pages/assets/slides/thursday_files/IntroductiontoMachineLearning.pdf
+      target: remote
+    - name: Example Dataset Creation and Machine Learning Code" 
+      url: https://github.com/HackHPC/BigDataHack-2022/tree/gh-pages/assets/slides/thursday_files/SIR%20Model%20Machine%20Learning
+      target: remote
