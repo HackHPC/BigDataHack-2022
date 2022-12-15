@@ -35,15 +35,14 @@
     <section style="text-align: center;">
       <img src="assets/team_pictures/grouppicture.jpg" width="700"> 
     </section>
-    {%if site.show_aboutme_card %}
-      <section class="card neumorphism-card-big">
-        {% include section-aboutme.html %}
-      </section>
-    {% endif %}
+   
     <section class="card neumorphism-card-big">
       <h2> Schedule </h2>
       {% include schedule.html %}
     </section>
+
+    
+
     {%if site.show_skills_card %}
       <section class="card neumorphism-card-big">
         {% include section-skills.html %}
@@ -65,6 +64,13 @@
       {% include section-contact.html %}
     </section>
     {% endif %}
+    
+    {%if site.show_aboutme_card %}
+    <section class="card neumorphism-card-big">
+      {% include section-aboutme.html %}
+    </section>
+    {% endif %}
+    
     <section class="card neumorphism-card-big">
       <h2> Resources </h2>
       <ul>
